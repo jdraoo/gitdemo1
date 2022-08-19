@@ -1,1 +1,2 @@
 file5 created
+line 2 added from feature2
