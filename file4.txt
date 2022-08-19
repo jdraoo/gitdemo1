@@ -1,1 +1,2 @@
 fourth file
+second line in file4.txt
